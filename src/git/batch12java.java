@@ -8,6 +8,8 @@ public class batch12java {
 	System.out.println("we are here");
      
 System.out.println("hi");
+
+System.out.println("hi buy t");
 	
 	
 	
