@@ -9,7 +9,7 @@ public class batch12java {
      
 System.out.println("hi");
 
-System.out.println("hi buy t");
+System.out.println("hi btt");
 	
 	
 	
